@@ -1,0 +1,3 @@
+Connection timeout error while accessing database.
+Error initializing payment gateway.
+500 Internal Server Error - API down.

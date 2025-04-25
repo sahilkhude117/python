@@ -1,0 +1,6 @@
+Total 'error' occurrences: 3 
+
+Details: 
+Line 1: Connection timeout error while accessing database.
+Line 2: Error initializing payment gateway.
+Line 3: 500 Internal Server Error - API down.
